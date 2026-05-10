@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshinb&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshinb&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -79,13 +70,6 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-## 💻 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -93,6 +77,3 @@
   <img src="https://komarev.com/ghpvc/?username=Adarshinb&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="center">
-⭐ Turning Ideas into Real World Applications ⭐
-</h3>
