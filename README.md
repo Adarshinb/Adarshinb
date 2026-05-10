@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adarshin-b-suresh">
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,flutter,firebase,tailwind,bootstrap,git,github,figma,vscode,aws" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshinb&theme=tokyonight&hide_border=true"/>
