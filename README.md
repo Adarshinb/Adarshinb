@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Adarshin B Suresh</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | Full Stack Trainer | Tech Enthusiast
+ MERN Stack Developer | Full Stack Trainer | Tech Enthusiast
 </h3>
 
 <p align="center">
@@ -28,16 +28,15 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working at **ICT Academy of Kerala**
-- 🌱 Learning **Flutter, AI & Machine Learning**
-- 💻 Passionate about **MERN Stack Development**
-- 🎯 Interested in **Modern UI/UX & Scalable Apps**
-- ⚡ Love teaching technology & building projects
-- ♟️ Chess player & creative thinker
+-  Currently working at **ICT Academy of Kerala**
+-  Learning **Flutter,AWS, AI & Machine Learning**
+-  Passionate about **MERN Stack Development**
+-  Interested in **Modern UI/UX & Scalable Apps**
+-  Love teaching technology & building projects
 
 ---
 
